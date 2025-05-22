@@ -8,4 +8,4 @@ Um Projeto de Frontend Mentor do huddle landing page com seção introdutória �
 - HTML 
 - CSS
 - Flexbox
-- Flexbox
+- Grid
